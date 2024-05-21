@@ -18,11 +18,11 @@ Este repositório contém a implementação de um módulo do curso de Spring Sec
 
 1. Clone o repositório:
    ```bash
-   git clone [URL_DO_REPOSITORIO]
+   git clone https://github.com/gabrielamarqs/dio-spring-security
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd [NOME_DO_DIRETORIO]
+   cd dio-spring-security
    ```
 3. Execute o projeto:
    ```bash
